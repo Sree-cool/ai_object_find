@@ -1,0 +1,28 @@
+body{
+    background-size: cover;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: rgb(0, 255, 221);
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    line-height: 3;
+    text-align: center;
+}
+p{
+    font-size: 12px;
+    font-weight: bold;
+    color:black;
+}
+h1{
+    font-size:30px;
+}
+
+canvas{
+    box-shadow: 5px 5px 5px grey;
+    border-radius: 10px;
+    margin-top: 100px;
+    border-color: white;
+}
